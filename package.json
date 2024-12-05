@@ -11,5 +11,8 @@
     "App"
   ],
   "author": "Halil Saltaş",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
 }
