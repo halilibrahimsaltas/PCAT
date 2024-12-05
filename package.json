@@ -1,0 +1,15 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "pcat",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "Photo",
+    "App"
+  ],
+  "author": "Halil Saltaş",
+  "license": "ISC"
+}
