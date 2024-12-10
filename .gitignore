@@ -1,3 +1,6 @@
+
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
@@ -105,7 +108,8 @@ dist
 .vuepress/dist
 
 # vuepress v2.x temp and cache directory
-.temp
+temp/
+tmp/
 
 # Docusaurus cache and generated files
 .docusaurus
@@ -142,3 +146,6 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+test.js/
+
